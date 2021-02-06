@@ -434,7 +434,7 @@ canvas#canvas {
 
   @media screen and (max-width: 600px){
     .icons1 .row span,.icons .row span {
-        font-size: 20px;
+        font-size: 25px;
       }
       .icons{
           margin-left: 35%;
@@ -442,7 +442,7 @@ canvas#canvas {
       .wrapper{
         position: relative;
         width: 50%;
-        margin: 50% auto;
+        margin: 20% auto;
         perspective: 1%;
         margin-bottom: auto;
         }
@@ -475,7 +475,7 @@ canvas#canvas {
   }
   @media screen and (min-width: 600px) and (max-width:1000px) {
     .icons1 .row span,.icons .row span {
-      font-size: 20px;
+      font-size: 25px;
     }
     .icons{
         margin-left: 37%;
