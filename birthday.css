@@ -484,12 +484,12 @@ canvas#canvas {
         position: relative;
         width: 50%;
         margin: 2% auto;
-        perspective: 50%;
+        perspective: 1%;
         margin-bottom: auto;
         }
         .img-area{
         position: absolute;
-        width: 70%;
+        width: 100%;
         height: auto;
         margin: 0 auto;
         transform-style: preserve-3d;
@@ -498,7 +498,7 @@ canvas#canvas {
         }
         .single-img{
         position: absolute;
-        width: 50%;
+        width: 100%;
         height: auto;
         top: 10px;
         left: 10px;
