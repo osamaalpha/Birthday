@@ -179,6 +179,22 @@ canvas#canvas {
 .step-4 .wrapper{
     opacity: 1;
 }
+.shanbo{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+  opacity: 0;
+}
+.alsinga{
+  color: white;
+  text-align: center;
+}
+.step-2 .shanbo{
+  opacity: 1;
+}
+.step-3 .shanbo{
+  opacity: 1;
+}
 
 .step-2 .giftbox:after {
   opacity: 0;
