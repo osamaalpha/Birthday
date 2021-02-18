@@ -299,3 +299,6 @@ window.requestAnimFrame = function () {
     ifrm.style.border = 'none';
     document.querySelector('#video').appendChild(ifrm);
   }
+  var confettiSettings = { target: 'my-canvas' };
+var confetti = new ConfettiGenerator(confettiSettings);
+confetti.render();
